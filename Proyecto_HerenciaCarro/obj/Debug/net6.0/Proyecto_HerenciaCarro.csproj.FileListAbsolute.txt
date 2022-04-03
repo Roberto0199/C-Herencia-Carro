@@ -1,0 +1,15 @@
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\bin\Debug\net6.0\Proyecto_HerenciaCarro.exe
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\bin\Debug\net6.0\Proyecto_HerenciaCarro.deps.json
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\bin\Debug\net6.0\Proyecto_HerenciaCarro.runtimeconfig.json
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\bin\Debug\net6.0\Proyecto_HerenciaCarro.dll
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\bin\Debug\net6.0\Proyecto_HerenciaCarro.pdb
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\obj\Debug\net6.0\Proyecto_HerenciaCarro.csproj.AssemblyReference.cache
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\obj\Debug\net6.0\Proyecto_HerenciaCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\obj\Debug\net6.0\Proyecto_HerenciaCarro.AssemblyInfoInputs.cache
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\obj\Debug\net6.0\Proyecto_HerenciaCarro.AssemblyInfo.cs
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\obj\Debug\net6.0\Proyecto_HerenciaCarro.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\obj\Debug\net6.0\Proyecto_HerenciaCarro.dll
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\obj\Debug\net6.0\refint\Proyecto_HerenciaCarro.dll
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\obj\Debug\net6.0\Proyecto_HerenciaCarro.pdb
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\obj\Debug\net6.0\Proyecto_HerenciaCarro.genruntimeconfig.cache
+C:\Users\Roberto Rivas\Desktop\Proyecto_HerenciaCarro-master\Proyecto_HerenciaCarro\obj\Debug\net6.0\ref\Proyecto_HerenciaCarro.dll
